@@ -1,7 +1,7 @@
 def my_steps(n):
     if n == 0:
         return 1
-    elif n == 1:
+    else if n == 1:
         return 1
  
     ways = [0] * (n + 1)
