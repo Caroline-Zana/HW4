@@ -1,4 +1,4 @@
-def count_ways(n):
+def my_steps(n):
     if n == 0:
         return 1
     elif n == 1:
